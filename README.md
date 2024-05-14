@@ -18,20 +18,13 @@
 <br/>  
 
 
-## Rapidfire  
+## Learning
 <table><tr><td valign="top" width="50%">
 
 
 
 ### Learning  
 - 🌱 I’m currently learning Django  
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
 
 <br/>  
 
